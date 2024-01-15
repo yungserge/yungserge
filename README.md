@@ -1,4 +1,3 @@
-![cka-certified-kubernetes-administrator (1)](https://github.com/yungserge/yungserge/assets/128556285/7037fc5d-7b4d-41b5-8554-a27cc3e36796)
-![hashicorp-certified-terraform-associate-003 (1)](https://github.com/yungserge/yungserge/assets/128556285/9c6684f5-c9c7-486d-a6e7-dfc3395cda3f)
-![aws-certified-cloud-practitioner (1)](https://github.com/yungserge/yungserge/assets/128556285/97b43032-9309-422c-9848-9da7a9843935)
-![aws-certified-solutions-architect-associate (1)](https://github.com/yungserge/yungserge/assets/128556285/cd4f0d91-6da6-48f3-b841-a311a83ccd52)
+![hashicorp-certified-terraform-associate-003](https://github.com/yungserge/yungserge/assets/128556285/230505cf-befe-45de-acb6-a6fe6c1a4c09)
+![cka-certified-kubernetes-administrator](https://github.com/yungserge/yungserge/assets/128556285/99be9438-31e1-4852-a5d1-76cf0329e771)
+![aws-certified-solutions-architect-associate](https://github.com/yungserge/yungserge/assets/128556285/c19a018d-3654-43a6-b920-e7fa65e8b82a)
