@@ -1,8 +1,5 @@
 <h1>Hi, I'm Sergey, welcome to my GitHub page!
 
-<h2>Check out some of my Projects</h2>
-AWS Cloud CV (https://github.com/yungserge/cv_website) - https://yungserge.com
-
 <h2>Active Certifications:</h2>
 
 ![hashicorp-certified-terraform-associate-003](https://github.com/yungserge/yungserge/assets/128556285/520b5469-da66-4825-a6aa-7e048f581aba)
